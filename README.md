@@ -25,6 +25,24 @@ Prefer a local (stdio) server instead of the remote connector? Install the packa
 npx anonymetrics-mcp   # with ANONYMETRICS_API_KEY=anx_live_…
 ```
 
+## Install
+
+This repository is a self-hosted Claude Code **plugin marketplace** (works on any plan — Free, Pro, Team, Enterprise). In Claude Code:
+
+```
+/plugin marketplace add MonolitDigital-Products/anonymetrics-plugin
+/plugin install anonymetrics@anonymetrics
+```
+
+Or from the terminal:
+
+```bash
+claude plugin marketplace add MonolitDigital-Products/anonymetrics-plugin
+claude plugin install anonymetrics@anonymetrics
+```
+
+(`anonymetrics@anonymetrics` = `<plugin>@<marketplace>`.)
+
 ## Test locally
 
 ```bash

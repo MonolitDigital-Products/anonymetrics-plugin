@@ -1,0 +1,21 @@
+{
+  "name": "anonymetrics",
+  "description": "Anonymetrics plugins for Claude — privacy-first web analytics.",
+  "owner": {
+    "name": "Monolit Digital",
+    "url": "https://www.anonymetrics.io"
+  },
+  "plugins": [
+    {
+      "name": "anonymetrics",
+      "source": ".",
+      "description": "Query your privacy-first web analytics from Anonymetrics in Claude: visitors, pages, sources and real-time visitors.",
+      "author": {
+        "name": "Monolit Digital",
+        "url": "https://www.anonymetrics.io"
+      },
+      "homepage": "https://www.anonymetrics.io/api-docs",
+      "keywords": ["analytics", "web-analytics", "privacy", "anonymetrics", "mcp"]
+    }
+  ]
+}
