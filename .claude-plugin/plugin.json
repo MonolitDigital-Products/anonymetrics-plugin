@@ -1,0 +1,11 @@
+{
+  "name": "anonymetrics",
+  "version": "1.0.0",
+  "description": "Consulta tu analítica web privada de Anonymetrics desde Claude: visitantes, páginas, fuentes de tráfico y visitantes en tiempo real, en lenguaje natural.",
+  "author": {
+    "name": "Monolit Digital",
+    "url": "https://www.anonymetrics.io"
+  },
+  "homepage": "https://www.anonymetrics.io/api-docs",
+  "keywords": ["analytics", "web-analytics", "privacy", "anonymetrics", "mcp"]
+}

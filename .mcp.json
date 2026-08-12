@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "anonymetrics": {
+      "type": "http",
+      "url": "https://mcp.anonymetrics.io"
+    }
+  }
+}
